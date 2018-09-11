@@ -1,0 +1,2 @@
+# POLLS
+Basic django application.
